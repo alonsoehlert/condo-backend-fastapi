@@ -1,0 +1,6 @@
+alembic==1.1.0.dev0
+fastapi==0.68.1
+pydantic==1.9.0
+SQLAlchemy==1.4.29
+typing==3.7.4.3
+uvicorn==0.13.4
